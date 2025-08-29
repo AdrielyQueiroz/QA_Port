@@ -2,7 +2,7 @@
   "name": "meu-portfolio-bootstrap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AdrielyQueiroz/portfolio_Denise",
+  "homepage": "https://github.com/AdrielyQueiroz/Portfolio-QA",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
