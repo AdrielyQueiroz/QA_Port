@@ -16,7 +16,7 @@ const Header = () => {
   return (
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className="container-fluid fixed-top">
-        <ul className="navbar-nav flex-row flex-wrap justify-content-end justify-content-md-end w-100 custom-nav">
+        <ul className="navbar-nav flex-row flex-wrap justify-content-end w-100 custom-nav">
           <li className="nav-item">
             <a className="nav-link" href="#">Home</a>
           </li>

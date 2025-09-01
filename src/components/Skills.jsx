@@ -1,7 +1,5 @@
 import React from 'react';
 import "../css/style.css";
-
-// Importe suas imagens
 import jira from '../img/jira.png';
 import postman from '../img/postman.png';
 import cypress from '../img/cypress.png';
@@ -10,6 +8,7 @@ import nodejs from '../img/NodeJS.png';
 import git from '../img/git.png';
 import github from '../img/github.png';
 import gitlab from '../img/gitlab.png';
+import java from '../img/java.png';
 
 const skills = [
   {
@@ -31,6 +30,12 @@ const skills = [
     img: js,
     alt: 'JavaScript',
     desc: 'JavaScript é a linguagem base para testes com Cypress e automações web, com foco em lógica, manipulação de DOM e integração com ferramentas de QA modernas.',
+  },
+  {
+    img: java,
+    alt: 'GitLab',
+    desc: 'Linguagem de programação orientada a objetos, robusta e multiplataforma, amplamente utilizada no desenvolvimento de aplicações corporativas, web e mobile (Android).',
+    className: "gitlab"
   },
   {
     img: nodejs,
@@ -61,10 +66,10 @@ const skills = [
 const Skills = () => {
   return (
     <div className="skills p-5" id='habilidades'>
-      <h2 className="mb-5 text-start">Habilidades</h2>
+      <h2 className="mb-5 text-center">Habilidades</h2>
       <div className="row g-3 m-2">
         {skills.map((skill, index) => (
-          <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 p-3" key={index}>
+          <div className="col-sm-12 col-md-5 col-lg-4 col-xl-3 p-3" key={index}>
             <div className="card h-100" >
               <img src={skill.img} className={`card-img-top p-5 ${skill.className || ''}`} alt={skill.alt} />
               <div className="card-body">

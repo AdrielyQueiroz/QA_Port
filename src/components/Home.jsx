@@ -4,7 +4,7 @@ import fundo from '../img/fundo.png';
 
 const Home = () => {
   return (
-    <div className="home d-flex flex-wrap align-items-center justify-content-between">
+    <div className="home d-flex flex-wrap align-items-center justify-content-center">
       <div className="home-text d-flex flex-column justify-content-center align-items-center text-center p-5">
         <h1 className='lh-base text-uppercase'>QA Engineer</h1>
         <h4>
@@ -24,4 +24,5 @@ const Home = () => {
 };
 
 export default Home;
+
 

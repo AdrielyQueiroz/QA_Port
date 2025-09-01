@@ -42,7 +42,7 @@ const Footer = () => {
           
           <div className="mt-4">
             <p className="mb-1">Todos os direitos reservados.</p>
-            <p className="mb-0">&copy; {new Date().getFullYear()} Denise Santana.</p>
+            <p className="mb-0">&copy; {new Date().getFullYear()} Denise Santana</p>
           </div>
         </div>
       </div>

@@ -21,11 +21,14 @@ const About = () => {
             como Scrum e Kanban. Possuo habilidade na elaboração e execução de cenários de teste manuais e automatizados, com foco em qualidade, entrega contínua e colaboração com o time 
             de desenvolvimento. 
             <br />
+            <br />
             Conhecimento prático nas ferramentas Jira, Postiman, Cypress e Eclipse, com domínio na criação de cenários em BDD, como Gherkin, Cucumber e uso de estruturas como Page Objects.
             Experiência na validação de testes web e API, geração de evidências em vídeo, execução em modo headles e criação de massa de dados e dinâmica e estática.
             <br />
+            <br />
             Vivência com Cypress em todas as etapas: instalação, configuração, utilização do Selector Playground, Checkpoints, execução local e via terminal. Noções em JavaScript, Node.js,
             Selenium IDE/WebDriver, e versionamento com Git, Github e GitLab.
+            <br />
             <br />
             Forte atuação na análise de defeitos, revalidação após correção, gerenciamento de bugs e documentação de evidências, garantindo a entrega de produtos com qualidade ao cliente e
             usuário final.
