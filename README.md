@@ -3,11 +3,14 @@
 <p align="start">Projeto pessoal simples inicializado com Bootstrap + React para um Quality Assurance.</p><br>
 Este projeto foi feito e pensado para um QA, onde foi aproveitado alguns dos conhecimentos adquiridos durante o estudo de Bootstrap.
 
-<h1>Tecnologias usadas 🔧:</h1>
+<h1>🔧Tecnologias usadas:</h1>
 
 <p align="start">
-✅ Bootstrap <br>
-✅ React
+✅ Bootstrap; <br>
+✅ React;
 </p>
+
+<h1 align="start"> 🌐 Confira:</h1>
+<a>[🔗]https://adrielyqueiroz.github.io/QA_Port/</a>
 
 
