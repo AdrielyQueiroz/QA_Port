@@ -5,7 +5,9 @@ Este projeto foi feito e pensado para um QA, onde foi aproveitado alguns dos con
 
 <h1>Tecnologias usadas 🔧:</h1>
 
-<p align="start">✅ Bootstrap</p><br>
+<p align="start">
+✅ Bootstrap
 ✅ React
+</p>
 
 
